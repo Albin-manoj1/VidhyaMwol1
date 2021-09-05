@@ -5,7 +5,7 @@
     "AUTHOR": "Afnan-plk",
     "STRINGS": {
         "_asena": {
-            "COMMAND": "Command",
+             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
             "NOT_FOUND": "*ingane oru command kand ethan aayilla*",
@@ -43,7 +43,7 @@
             "UNMUTE_DESC": "aarkum message ayaan, admin only allathe akkan.",
             "UNMUTED": "```admin only allathe akeett und!```",
             "INVITE_DESC": "groupilikk kshennikaan ulla linkin aayitt.",
-            "INVITE": "```kshana kath..😉: ```"
+            "INVITE": "```kari va mona.....😉: ```"
         },
         "locate": {
             "L_DESC": "location ayach therum.",
@@ -72,9 +72,9 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
+            "RESTART_DESC": "\nRestart vidhyamwol\n",
             "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
+            "SHUTDOWN_DESC": "\nShutdown vidhyamwol\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
@@ -82,7 +82,7 @@
             "PERCENTAGE": "```shedhamanam```",
             "DYNO_LEFT": "```backi ullath```",
             "SETVAR_DESC": "heroku config var set cheyaan",
-            "SET_SUCCESS": "vijayagaramaayi set cheythu ```{} ➜ {}```",
+            "SET_SUCCESS": "👌 set cheythu ```{} ➜ {}```",
             "KEY_VAL_MISSING": "``` Key allenkkil Value missing aan```",
             "INVALID": "```asaathuvaya key:value format```",
             "GETVAR_DESC": "Get heroku config var",
@@ -95,11 +95,11 @@
             "NO_FILTER": "*❌ eee chattil filter illa!*",
             "FILTERS": "*🔎 itha ee chatile filter:*",
             "NEED_REPLY": "*❌replyill type cheyyu!*\n*Example:*",
-            "FILTERED": "*✅ vijayagaramaayi set cheythu* ```{}``` *to filter!*",
+            "FILTERED": "*✅ set cheythu* ```{}``` *to filter!*",
             "STOP_DESC": "ningall add cheytha filter delet aakkum.",
             "NEED_FILTER": "*❌ oru filter type cheyyu!*\n*Example:*",
             "ALREADY_NO_FILTER": "*❌ inganne oru filter nilavill illa!*",
-            "DELETED": "*✅ filter vijayagaramaayi delete cheyythu!*"
+            "DELETED": "*✅ filter  delete cheyythu!*"
         },
         "greetings": {
             "WELCOME_DESC": "welcome message add cheyyum . shoonyamakki vechaal welcome message kaanikkum.",
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "enne groupill nin purath akaan.",
-            "KICKME": "```Bye bye! njan povunnu 🤠```",
+            "KICKME": "```Bye bye! njan povunnu guys🤠```",
             "PP_DESC": "reply cheytha chithram profil akkaan.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```profile maattunnu...```",
@@ -186,17 +186,17 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "DOWNLOADING_SONG": "\npaatt nokatha 🤗\n",
+            "UPLOADING_SONG": "\nEpol  Upload 📲 cheyyam wait\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
-            "UPLOADING_VIDEO": "\n```Uploading...```\n",
+            "DOWNLOADING_VIDEO": "\n```Download waiting...```\n",
+            "UPLOADING_VIDEO": "\n```Epol varum...```\n",
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 searching...*",
+            "NOT_FOUND": "*soory kittiyilla ☹️*",
+            "SEARCHING": "*🔎 nokatha🧐...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
             "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."
@@ -212,18 +212,18 @@
         },
         "tagall": {
             "TAGALL_DESC": "groupile ellareyum tag cheyyum.",
-            "ADMİN": "*njan admin allalo..😕!*"
+            "ADMİN": "*njan admin allalo..😪😕!*"
         },
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
-            "UPDATE": "*Nan already update aan muthe 😘😝!*",
-            "NEW_UPDATE": "*sophia Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6 * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "UPDATE": "*Nan set aan muthe 😘😝!*",
+            "NEW_UPDATE": "*Vidhyamwol Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum group link *https://chat.whatsapp.com/FWFWXyYPrhN0uR1jnCRtVs* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```Update aakikondirikunnu manushyaa🤩😍😘..🐥```",
+            "UPDATING": "```Update aakikondirikunnu waiting🤩😍😘..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
-            "UPDATED": "*Update aaki monuse 😁🤠✅*",
-            "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Sophoa Restarting..*"
+            "UPDATED": "*Update  aayi muthe😁🤠✅*",
+            "UPDATED_LOCAL": "*✅ set Update cheythu!*",
+            "AFTER_UPDATE": "*😎 Vidhyamwol Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -455,7 +455,7 @@
         },
         "webss": {
             "SS_DESC": "thanna linkil nin screenshot edth ayach therum.",
-            "LİNK": " link thaa mister!"
+            "LİNK": " link thaa mona!"
         },
         "voicy": {
             "NEED_REPLY": "```oru messagin reply theru!```",
